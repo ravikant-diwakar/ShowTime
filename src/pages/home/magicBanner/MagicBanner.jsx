@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./banner.css"; // Import your CSS file here
 import img1 from "./image/image1.jpg";
 import img2 from "./image/imagee2.jpg";
-import img3 from "./Image/Image3.jpg";
+import img3 from "./image/Image3.jpg";
 import img4 from "./image/Image4.jpg";
 import { Link } from "react-router-dom";
 

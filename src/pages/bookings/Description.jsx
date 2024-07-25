@@ -29,7 +29,7 @@ const Description = () => {
                     <div>
                         <MdOutlineLocationOn className="text-4xl text-primary" />
                         <h4 className="mt-6 text-3xl font-semibold">Your Desired Venue</h4>
-                        <p className="mt-2 text-xl font-medium text-primary">Bangladesh</p>
+                        <p className="mt-2 text-xl font-medium text-primary">Bhubaneswar</p>
                     </div>
                     <div>
                         <LuDollarSign className="text-4xl text-primary" />

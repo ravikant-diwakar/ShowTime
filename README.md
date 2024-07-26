@@ -21,7 +21,7 @@ Welcome to **ShowTime**, a comprehensive ticket booking application designed for
 
 4. **Payment Integration**
    - Secure payment portal using Razorpay.
-   - Seamless transaction completion and receipt generation.![Uploading Showtime.svg.png…]()
+   - Seamless transaction completion and receipt generation.
 
 
 5. **Responsive UX Design**
